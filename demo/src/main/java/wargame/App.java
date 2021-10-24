@@ -1,11 +1,11 @@
 package demo.src.main.java.wargame;
 
-// import javafx.application.Application;
-// import javafx.geometry.Pos;
-// import javafx.scene.Scene;
-// import javafx.scene.layout.GridPane;
-// import javafx.stage.Stage;
-// import javafx.scene.image.Image;
+import javafx.application.Application;
+import javafx.geometry.Pos;
+import javafx.scene.Scene;
+import javafx.scene.layout.GridPane;
+import javafx.stage.Stage;
+import javafx.scene.image.Image;
  
 
 
@@ -29,7 +29,7 @@ package demo.src.main.java.wargame;
 //         }
 
 //     }
-public class Main {
+public class App{
     public static void main(String[] args) {
         TicTacToe ticTacToe = new TicTacToe();
     }
